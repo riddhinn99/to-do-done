@@ -1,0 +1,16 @@
+.noteElement {
+    background-color : indigo;
+    margin: 20px;
+    display : inherit;
+    border-radius: 3px ;
+    padding: 10px;
+}
+
+.noteElement p{
+    color: white;
+}
+
+.noteElement span{
+    color: white;
+    float : right;
+}
